@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="logo.ico">
+    <script src="https://kit.fontawesome.com/8ae3540187.js" crossorigin="anonymous"></script>
+    <title>DevPad</title>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <h1 class="logo">DevPad</h1>
+            <ul class="nav-links">
+                <li><button class="btn" onclick="openDocumentation()">Documentation</button></li>
+                <li><button onclick="run()"><i class="fas fa-play"></i> Run</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="screen">
+        <div class="left">
+            <label><i class="fa-brands fa-html5"></i>HTML</label>
+            <textarea id="html"></textarea>
+
+            <label><i class="fa-brands fa-css3-alt"></i>CSS</label>
+            <textarea id="css"></textarea>
+
+            <label><i class="fa-brands fa-js"></i>JavaScript</label>
+            <textarea id="javascript"></textarea>
+        </div>
+        <div class="right">
+            <iframe id="output"></iframe>
+        </div>
+    </div>
+    <script src="init.js"></script>
+</body>
+</html>
