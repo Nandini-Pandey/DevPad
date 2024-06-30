@@ -11,8 +11,8 @@
 
 ## Preview
 
-![DevPad Demo](img1.png)
 ![DevPad Demo](img2.png)
+![DevPad Demo](img1.png)
 
 ## How to Use
 
@@ -31,4 +31,5 @@ To run DevPad locally, follow these steps:
 2. Open `index.html` in your browser to start using DevPad.
 
 ## Demo
+nandini-pandey.github.io/DevPad/
 
