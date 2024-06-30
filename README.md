@@ -31,5 +31,5 @@ To run DevPad locally, follow these steps:
 2. Open `index.html` in your browser to start using DevPad.
 
 ## Demo
-nandini-pandey.github.io/DevPad/
+https://nandini-pandey.github.io/DevPad/
 
