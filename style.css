@@ -104,4 +104,14 @@ iframe{
 .nav-links li button:hover {
     background-color: #0056b3;
 }
+/* Responsive Design */
+@media (max-width: 868px) {
+    .screen {
+        flex-direction: column;
+    }
+
+    .screen .left, .screen .right {
+        height: auto;
+    }
+}
 
