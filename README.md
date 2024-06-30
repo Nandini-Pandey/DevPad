@@ -9,7 +9,7 @@
 - **Easy-to-Use Interface**: Simple and intuitive design for a seamless coding experience.
 - **Documentation Access**: Quick access to MDN documentation for reference and learning.
 
-## Demo
+## Preview
 
 ![DevPad Demo](img1.png)
 ![DevPad Demo](img2.png)
@@ -26,14 +26,9 @@ To run DevPad locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Nandini-Pandey
-/devpad.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd devpad
-    ```
-3. Open `index.html` in your browser to start using DevPad.
+    git clone https://github.com/Nandini-Pandey/DevPad.git
 
-## Responsive Design
+2. Open `index.html` in your browser to start using DevPad.
+
+## Demo
 
